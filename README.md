@@ -143,53 +143,6 @@ AI-powered wellness ecosystem focused on body analysis, face analysis and person
 
  ---
 
-# 📚 Learning Roadmap
-
-```text
-Foundation
-   │
-   ├── Python
-   ├── C++
-   ├── DSA
-   ├── Git & GitHub
-   │
-   ▼
-Full Stack Development
-   │
-   ├── JavaScript
-   ├── TypeScript
-   ├── React
-   ├── Next.js
-   ├── FastAPI
-   │
-   ▼
-Artificial Intelligence
-   │
-   ├── Machine Learning
-   ├── Deep Learning
-   ├── LLMs
-   ├── AI Agents
-   ├── RAG
-   │
-   ▼
-Robotics
-   │
-   ├── ROS2
-   ├── OpenCV
-   ├── Embedded Systems
-   │
-   ▼
-Space Technology
-   │
-   ├── Control Systems
-   ├── Aerospace Computing
-   │
-   ▼
-Quantum Computing
-```
-
----
-
 # 🌱 Currently Learning
 
 - 🐍 Advanced Python
@@ -333,40 +286,6 @@ Quantum Computing
 
 ---
 
-# 🚀 Vision Roadmap
-
-```text
-AI Engineering
-        │
-        ▼
-Full Stack Development
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-AI Agents
-        │
-        ▼
-Startup Building
-        │
-        ▼
-Robotics
-        │
-        ▼
-Space Technology
-        │
-        ▼
-Quantum Computing
-        │
-        ▼
-Deep Tech Company
-```
-
----
 
 # 🤝 Open To Collaborate
 
