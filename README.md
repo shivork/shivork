@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi, I'm Shivam Sundaram (Shivork)
+# 🚀 Hi, I'm Shivork
 
 ### AI Engineer in Progress • Startup Builder • Future Robotics, Space & Quantum Technology Innovator
 
@@ -16,7 +16,7 @@
 
 # 👋 About Me
 
-Hi! I'm **Shivam Sundaram**, a B.Sc. Mathematics with Computer Science student from India.
+Hi! I'm **Shivork Anzin**, a B.Sc. Mathematics with Computer Science student from India.
 
 I enjoy building products that solve real-world problems through Artificial Intelligence, Full Stack Development and Deep Technology.
 
