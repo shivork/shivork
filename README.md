@@ -162,19 +162,6 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 ---
 
-# ⚡ Fun Facts
-
-🧠 I love solving difficult problems.
-
-🚀 Building startups excites me.
-
-🤖 Fascinated by AI, Robotics and Space Technology.
-
-📚 Learning something new every single day.
-
-🌍 My goal is to build technology that impacts millions of lives.
-
----
 
 # 📫 Contact Me
 
