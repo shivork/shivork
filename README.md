@@ -227,3 +227,96 @@ https://linkedin.com/in/shivamsundaram
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 </div>
+
+
+# 🛠️ Technology Badges
+
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css" />
+</p>
+
+---
+
+## ⚛️ Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Libraries & Frameworks**
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- LangChain
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
+</p>
+
+---
+
+## 🎨 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,git" />
+</p>
+
+---
+
+## 🤖 Robotics & Embedded (Learning Roadmap)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+- ROS2
+- OpenCV
+- CUDA
+- Embedded Systems
+
+---
+
+## 🚀 Future Technologies
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI Agents
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Robotics
+- Space Technology
+- Quantum Computing
