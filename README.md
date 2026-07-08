@@ -2,8 +2,6 @@
 
 # 🚀 Hi, I'm Shivork
 
-### AI Engineer in Progress • Startup Builder • Future Robotics, Space & Quantum Technology Innovator
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Startup+Builder;Full+Stack+Developer;Building+Skilldepp;Future+Robotics+Engineer;Future+Space+Tech+Innovator;Future+Quantum+Computing+Researcher;Learning+Something+New+Everyday" />
 
 <br>
@@ -19,42 +17,6 @@
 Hi! I'm **Shivork Anzin**, a B.Sc. Mathematics with Computer Science student from India.
 
 I enjoy building products that solve real-world problems through Artificial Intelligence, Full Stack Development and Deep Technology.
-
-My long-term vision is to build globally impactful companies in:
-
-- 🤖 Artificial Intelligence
-- 🚀 Robotics
-- 🛰️ Space Technology
-- ⚛️ Quantum Computing
-- 🌍 Deep Tech Innovation
-
-I believe in continuous learning, disciplined execution and building meaningful products.
-
----
-
-# 🎯 Mission
-
-> Build technology that positively impacts millions of people.
-
-Current mission:
-
-- 🚀 Build Skilldepp AI
-- 💡 Learn AI Engineering deeply
-- 🌎 Create world-class startups from India
-- 🤖 Prepare for Robotics & Space Tech
-- ⚛️ Build a strong foundation for Quantum Computing
-
----
-
-# 🌐 Connect With Me
-
-- 📧 **Email:** shivorkanzin@gmail.com
-- 🐙 **GitHub:** https://github.com/shivork
-- 📸 **Instagram:** https://instagram.com/theshivork
-- 💼 **LinkedIn:** https://linkedin.com/in/shivamsundaram
-
----
-
 
 # 📊 GitHub Analytics
 
@@ -146,6 +108,22 @@ Current mission:
 </p>
 
 ---
+## 🤖 AI Libraries & Frameworks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white"/>
+
+</p> 
+----
 
 # 🐍 Contribution Snake
 
@@ -208,15 +186,7 @@ Current mission:
 
 https://github.com/shivork
 
-📸 Instagram
 
-https://instagram.com/theshivork
-
-💼 LinkedIn
-
-https://linkedin.com/in/shivamsundaram
-
----
 
 <div align="center">
 
@@ -228,95 +198,3 @@ https://linkedin.com/in/shivamsundaram
 
 </div>
 
-
-# 🛠️ Technology Badges
-
-## 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css" />
-</p>
-
----
-
-## ⚛️ Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
-</p>
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**Libraries & Frameworks**
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- LangChain
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify" />
-</p>
-
----
-
-## 🎨 Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,git" />
-</p>
-
----
-
-## 🤖 Robotics & Embedded (Learning Roadmap)
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-- ROS2
-- OpenCV
-- CUDA
-- Embedded Systems
-
----
-
-## 🚀 Future Technologies
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- AI Agents
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Robotics
-- Space Technology
-- Quantum Computing
