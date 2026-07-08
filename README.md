@@ -123,42 +123,6 @@ Current mission:
 
 ---
 
-# 🚀 Current Projects
-
-## 🧠 Skilldepp
-
-AI Skill Intelligence Platform focused on practical learning, project-based education and AI-powered career growth.
-
----
-
-## 💬 Tapleq
-
-AI-powered comment intelligence platform for YouTube, Instagram, X and App Reviews.
-
----
-
-## ❤️ Trivork AI
-
-AI-powered wellness ecosystem focused on body analysis, face analysis and personalized wellness.
-
- ---
-
-# 🌱 Currently Learning
-
-- 🐍 Advanced Python
-- ⚡ C++ & DSA
-- 🌐 React & Next.js
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 💬 AI Agents
-- 📚 LangChain
-- ⚙️ FastAPI
-- ☁️ Cloud Computing
-- 🐳 Docker
-- 🐧 Linux
-
----
 
 # 📊 GitHub Analytics
 
@@ -200,31 +164,6 @@ AI-powered wellness ecosystem focused on body analysis, face analysis and person
 
 ---
 
-# 🏅 Achievements
-
-- 🏃 State Level Athlete
-- 👨‍💼 School Captain
-- 🚀 Startup Builder
-- 💻 AI Product Developer
-- 🌍 Open Source Learner
-- 📚 Lifelong Learner
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Master Python
-- ✅ Master C++
-- ✅ Learn Advanced React
-- ✅ Learn FastAPI
-- ✅ Build Skilldepp MVP
-- ✅ Launch Tapleq MVP
-- ✅ Improve English Communication
-- ✅ Contribute to Open Source
-- ✅ Build Personal Brand
-- ✅ Become a Professional AI Engineer
-
----
 
 # 🛠 Technology Badges
 
