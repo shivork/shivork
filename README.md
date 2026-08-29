@@ -32,15 +32,6 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivork&theme=tokyo-night"/>
-
-</div>
 
 ---
 
