@@ -100,15 +100,6 @@ I enjoy building products that solve real-world problems through Artificial Inte
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white"/>
 
 </p> 
-----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shivork/shivork/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -123,7 +114,7 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 📧 Email
 
-**shivorkanzin@gmail.com**
+**Shivorkanzin@gmail.com**
 
 🐙 GitHub
 
