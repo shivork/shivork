@@ -4,15 +4,13 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=shivork&style=for-the-badge&color=0e75b6)
-
 </div>
 
 ---
 
 # 👋 About Me
 
-Hi! I'm **Shivork Anzin**, a B.Sc. Mathematics with Computer Science student from India.
+Hi! I'm **Shivork Anzin**,
 
 I enjoy building products that solve real-world problems through Artificial Intelligence, Full Stack Development and Deep Technology.
 
