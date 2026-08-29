@@ -2,8 +2,6 @@
 
 # 🚀 Hi, I'm Shivork
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Startup+Builder;Full+Stack+Developer;Building+Skilldepp;Future+Robotics+Engineer;Future+Space+Tech+Innovator;Future+Quantum+Computing+Researcher;Learning+Something+New+Everyday" />
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=shivork&style=for-the-badge&color=0e75b6)
