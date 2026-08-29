@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 # 👋 About Me
 
 Hi! I'm **Shivork Anzin**,
