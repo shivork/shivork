@@ -125,27 +125,6 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 ---
 
-
-# 🤝 Open To Collaborate
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Full Stack Development
-
-✔ Open Source
-
-✔ Startup Projects
-
-✔ Research Projects
-
-✔ Robotics
-
-✔ Deep Technology
-
----
-
 # 💬 Quote I Live By
 
 > **"Dream big. Learn relentlessly. Build consistently. Let your work speak louder than your words."**
