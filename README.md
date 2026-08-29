@@ -18,17 +18,10 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 <div align="center">
 
-### 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivork&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 ### 🔥 GitHub Streak
 
 <img height="180em" src="https://streak-stats.demolab.com?user=shivork&theme=tokyonight&hide_border=true"/>
 
-### 💻 Most Used Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivork&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
