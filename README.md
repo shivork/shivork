@@ -38,16 +38,6 @@ I enjoy building products that solve real-world problems through Artificial Inte
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivork&theme=tokyonight&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
