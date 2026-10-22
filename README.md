@@ -6,24 +6,6 @@
 
 </div>
 
-# 👋 About Me
-
-Hi! I'm **Shivork Anzin**,
-
-I enjoy building products that solve real-world problems through Artificial Intelligence, Full Stack Development and Deep Technology.
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-### 🔥 GitHub Streak
-
-<img height="180em" src="https://streak-stats.demolab.com?user=shivork&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
 ---
 
 
